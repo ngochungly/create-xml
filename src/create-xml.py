@@ -1,9 +1,11 @@
+import sys
 # import xml.etree.ElementTree as ET
 from openpyxl import Workbook
 from openpyxl import load_workbook
 
 # ===== Read .xlsx file =====
-wb = load_workbook('../data/input.xlsx')
+# filepath is the first argument
+wb = load_workbook(sys.argv[1])
 # Select sheet
 ws = wb['Sheet1']
 
