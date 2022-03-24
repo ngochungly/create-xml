@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog id="155">
+  <export>
+    <auteur>
+      <nom>MCNC</nom>
+      <email>replay030303@mcnc.tv</email>
+    </auteur>
+  </export>
+
+  <programmes>
+
+    <programme id="bayan">
+      <titre>Ja'ana al bayan al tali</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>1980</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+		<publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+
+      <rubriques>
+		<rubrique id="ID3"/>
+	  </rubriques>
+
+
+    </programme>
+
+    <programme id="Qadarat">
+      <titre>Qadarah</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>1980</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="cabareh">
+      <titre>Cabareh</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="hafid">
+      <titre>Al Hafid</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="jaych">
+      <titre>Ismael Yassine fil jaych</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="nahnou">
+      <titre>Nahnou La Nazraou al shawk</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="saidrayehjay">
+      <titre>Saidi rayeh jay</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="wakaletalbalah">
+      <titre>Wakalet al balah</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+
+    </programme>
+
+    <programme id="zalam">
+      <titre>Amir al zalam</titre>
+      <saison></saison>
+      <episode></episode>
+      <synopsis></synopsis>
+      <annee>2021</annee>
+      <pays>EGY</pays>
+      <duree>105</duree>
+
+      <premdiftv date="2021-02-10 15:59:59"/>
+
+      <publications>
+  <publication debut="2021-03-28 13:00:00" duree="8760:50:00"/>
+      </publications>
+
+      <csa id="1"/>
+<rubriques>
+    <rubrique id="ID3"/>
+  </rubriques>
+      </programme>
+
+    
+  </programmes>
+
+
+  <correspondances>
+    <rubriques>
+      <rubrique id="ID3" label="Films et Séries" rank="3"/>
+    </rubriques>
+
+  </correspondances>
+
+</catalog>
