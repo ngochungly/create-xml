@@ -1,6 +1,5 @@
 import sys
 # import xml.etree.ElementTree as ET
-from openpyxl import Workbook
 from openpyxl import load_workbook
 
 # ===== Read .xlsx file =====
