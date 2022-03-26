@@ -8,15 +8,15 @@
   </export>
 
   <programmes>
-    <programme id="bayan">
-      <titre>Ja'ana al bayan al tali</titre>
-      <saison></saison>
-      <episode></episode>
+    <programme id="Valentino">
+      <titre>valentino1</titre>
+      <saison>1</saison>
+      <episode>1</episode>
       <synopsis></synopsis>
-      <annee>1980</annee>
+      <annee>2019</annee>
       <pays>EGY</pays>
-      <duree>105</duree>
-      <premdiftv date="2021-02-10 15:59:59"/>
+      <duree>48</duree>
+      <premdiftv date="2021-06-11 17:50:00"/>
       <publications>
         <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
       </publications>
@@ -26,15 +26,123 @@
       </rubriques>
     </programme>
 
-    <programme id="Qadarat">
-      <titre>Qadarah</titre>
-      <saison></saison>
-      <episode></episode>
+    <programme id="Valentino">
+      <titre>valentino2</titre>
+      <saison>1</saison>
+      <episode>2</episode>
       <synopsis></synopsis>
-      <annee>1980</annee>
+      <annee>2019</annee>
       <pays>EGY</pays>
-      <duree>105</duree>
-      <premdiftv date="2021-02-10 15:59:59"/>
+      <duree>48</duree>
+      <premdiftv date="2021-06-12 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="Valentino">
+      <titre>valentino2</titre>
+      <saison>1</saison>
+      <episode>3</episode>
+      <synopsis></synopsis>
+      <annee>2019</annee>
+      <pays>EGY</pays>
+      <duree>48</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="Samra">
+      <titre>Samra1</titre>
+      <saison>1</saison>
+      <episode>1</episode>
+      <synopsis></synopsis>
+      <annee>2019</annee>
+      <pays>LB</pays>
+      <duree>42</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="Samra">
+      <titre>Samra3</titre>
+      <saison>1</saison>
+      <episode>3</episode>
+      <synopsis></synopsis>
+      <annee>2019</annee>
+      <pays>LB</pays>
+      <duree>42</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="Samra">
+      <titre>Samra2</titre>
+      <saison>1</saison>
+      <episode>2</episode>
+      <synopsis></synopsis>
+      <annee>2019</annee>
+      <pays>LB</pays>
+      <duree>42</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="2020">
+      <titre>2020ep12</titre>
+      <saison>1</saison>
+      <episode>12</episode>
+      <synopsis></synopsis>
+      <annee>2020</annee>
+      <pays>LB</pays>
+      <duree>42</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
+      <publications>
+        <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
+      </publications>
+      <csa id="1"/>
+      <rubriques>
+        <rubrique id="ID3"/>
+      </rubriques>
+    </programme>
+
+    <programme id="2020">
+      <titre>202ep13</titre>
+      <saison>1</saison>
+      <episode>13</episode>
+      <synopsis></synopsis>
+      <annee>2020</annee>
+      <pays>LB</pays>
+      <duree>42</duree>
+      <premdiftv date="2021-06-13 17:50:00"/>
       <publications>
         <publication debut="2021-03-29 13:00:00" duree="8760:50:00"/>
       </publications>

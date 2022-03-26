@@ -9,7 +9,7 @@ wb = load_workbook(sys.argv[1])
 ws = wb['Sheet1']
 
 # Get rows and convert to a list
-row_list = list(ws.iter_rows(min_row=2, max_row=4, min_col=3, max_col=None, values_only=False))
+row_list = list(ws.iter_rows(min_row=ws.min_row, max_row=ws.max_row, min_col=ws.min_column, max_col=ws.max_column, values_only=False))
 
 data = []
 
@@ -18,20 +18,24 @@ for row in row_list:
     row_str = ''
     row_dict = {}
 
-    # Create a dict for each row
+    # Check if the row is not ''
     for i in range(len(row)):
-        key = row_list[0][i].value
-        if (row[i].value != None):
-            value = row[i].value
-        else:
-            value = ''
-        #row_str += ' | {0}'.format(value)
-        row_dict[key] = value
+        if (row[i].value != None and row[i].value != ''):
+            # Create a dict for each row
+            for i in range(len(row)):
+                key = row_list[0][i].value
+                if (row[i].value != None):
+                    value = row[i].value
+                else:
+                    value = ''
+                row_str += ' | {0}'.format(value)
+                row_dict[key] = value
 
-    # print row data
-    # print(row_str)
-    # Add row data to a list
-    data.append(row_dict)
+            # print row
+            print(row_str)
+            # Add row data to a list
+            data.append(row_dict)
+            break
 
 # Remove header row
 data.pop(0)
@@ -104,7 +108,7 @@ xml_data_str += '  </correspondances>\n'
 
 xml_data_str += '</catalog>\n'
 
-print(xml_data_str)
+#print(xml_data_str)
 
 # Write xml data to file
 f = open('../data/output.xml', 'w', encoding='utf-8')
